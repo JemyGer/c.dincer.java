@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="javafx-template:main" external.linked.project.path="$MODULE_DIR$/../../javafx-template" external.root.project.path="$MODULE_DIR$/../../javafx-template" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../javafx-template/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../javafx-template/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../javafx-template/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../javafx-template/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="23" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: :javafx.base:" level="project" />
+    <orderEntry type="library" name="Gradle: :javafx.graphics:" level="project" />
+    <orderEntry type="library" name="Gradle: :javafx.controls:" level="project" />
+    <orderEntry type="library" name="Gradle: :javafx.fxml:" level="project" />
+  </component>
+</module>

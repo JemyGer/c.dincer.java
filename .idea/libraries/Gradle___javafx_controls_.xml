@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :javafx.controls:" type="java-imported" external-system-id="GRADLE">
+    <properties artifactId="javafx.controls" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../javafx-sdk-XX/lib/javafx.controls.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

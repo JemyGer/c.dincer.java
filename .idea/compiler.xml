@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="javafx-template" target="23" />
+      <module name="javafx-template.main" target="23" />
+      <module name="javafx-template.test" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
