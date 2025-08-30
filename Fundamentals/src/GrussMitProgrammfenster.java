@@ -28,7 +28,7 @@ public class GrussMitProgrammfenster extends JFrame {
         c.add(label2);
         c.add(label3);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setSize(550,550);
+        setSize(300,300);
         setVisible(true);
     }
     public static void main (String[] args) {
