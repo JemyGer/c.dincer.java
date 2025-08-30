@@ -2,13 +2,14 @@
 */
 
 import java.awt.*;
+import java.util.Objects;
 import javax.swing.*;
 
 public class GrussMitProgrammfenster extends JFrame {
     public GrussMitProgrammfenster() {
         super("Hallo");
 
-        ImageIcon icon = new ImageIcon(getClass().getResource("java.logo.png"));
+        ImageIcon icon = new ImageIcon("java.logo.png");
         Image img = icon.getImage();
         Image skaliert = img.getScaledInstance(300,300, Image.SCALE_SMOOTH);
         icon = new ImageIcon(skaliert);
