@@ -1,3 +1,4 @@
+/*Table Create with Escape-Sequences*/
 public class Variablen1{
     public static void main(String[] args){
         byte bNumber = 28;
@@ -17,7 +18,5 @@ public class Variablen1{
         System.out.print("\n dZahl" + "\t" + "\t" + dNumber);
         System.out.print("\n bestanden" + "\t" + Success);
         System.out.print("\n zeichen"  + "\t" + String);
-
-
     }
 }
