@@ -4,7 +4,7 @@ public class Variablen1{
         byte bNumber = 28;
         short sNumber = -18453;
         int iNumber = 4356576;
-        long lNumber = 345236577;
+        long lNumber = 345236577970L;
         float fNumber = 4.37456678F;
         double dNumber = 3645.564782D;
         boolean Success = true;
