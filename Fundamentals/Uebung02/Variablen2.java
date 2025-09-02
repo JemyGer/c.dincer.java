@@ -4,7 +4,7 @@ public class Variablen2 {
         char z2 = 'b';
         char z3 = 'A';
         char z4 = 169;
-        String z5 = "\u00BE";
+        char z5 = 190;
         System.out.print("Variable\t" + "Wert");
         System.out.print("\n z1" + "\t" + "\t" + z1);
         System.out.print("\n z2" + "\t" + "\t" + z2);
