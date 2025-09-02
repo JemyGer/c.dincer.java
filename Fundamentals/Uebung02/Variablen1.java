@@ -8,7 +8,7 @@ public class Variablen1{
         float fNumber = 4.37456678F;
         double dNumber = 3645.564782D;
         boolean Success = true;
-       char String = '%';
+        char String = '%';
         System.out.print("Variable\tWert");
         System.out.print("\n bZahl" + "\t" + "\t" + bNumber);
         System.out.print("\n sZahl" + "\t" + "\t" + sNumber);
