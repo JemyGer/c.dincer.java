@@ -32,9 +32,9 @@ public class Vokaltest {
             }
         }
         if (istVokal == true) {
-            JOptionPane.showMessageDialog(null, c + "ist ein Vokal!");
+            JOptionPane.showMessageDialog(null, c +  " ist ein Vokal!");
         } else {
-            JOptionPane.showMessageDialog(null, c + "ist kein Vokal!");
+            JOptionPane.showMessageDialog(null, c + " ist kein Vokal!");
         }
     }
 }
