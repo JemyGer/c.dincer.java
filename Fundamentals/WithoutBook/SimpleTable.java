@@ -9,8 +9,8 @@ public class SimpleTable {
                 {"sZahl","-18453", "short"},
                 {"iZahl", "4356576", "int"},
                 {"lZahl", "345236577970", "long"},
-                {"fZahl", "4.37456678", "float"},
-                {"dZahl", "3645.564782", "double"},
+                {"fZahl", "4.37456678F", "float"},
+                {"dZahl", "3645.56478", "double"},
                 {"bestanden", "true", "boolean"},
                 {"zeichen", "% use single ('') for", "char"}
         };
