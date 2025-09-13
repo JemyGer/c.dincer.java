@@ -1,5 +1,7 @@
 # Java:
-*Importe > Klasse > main > Variablen > Eingabe > Logik > Ausgabe*
+## Grundstruktur eines Programms
+````
+Importe > Klasse > main > Variablen > Eingabe > Logik > Ausgabe
 
 - Importe (sofern es welche gibt (Gui, XML etc))
 - Klasse (public class Name)
