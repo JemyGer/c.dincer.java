@@ -1,6 +1,6 @@
 # Java:
 ## Grundstruktur eines Programms
-````
+```` 
 Importe > Klasse > main > Variablen > Eingabe > Logik > Ausgabe
 
 - Importe (sofern es welche gibt (Gui, XML etc))
@@ -10,6 +10,7 @@ Importe > Klasse > main > Variablen > Eingabe > Logik > Ausgabe
 - Eingabe einlesen
 - Berechnung / Logik (if-else, Loops...)
 - Ausgabe
+````
 ## Datentypen
 ````
 Primitive Datentypen:
