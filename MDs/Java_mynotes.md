@@ -74,7 +74,7 @@ Operator    Beschreibung                Beispiel
 
 ````
 ## Escape-Sequenzen und Bedeutung
-````
+```` 
 Escape-Sequenz      Bedeutung
 \b                  Backspace
 \t                  Tabulator
@@ -84,3 +84,4 @@ Escape-Sequenz      Bedeutung
 \"                  doppeltes Anfurhungszeichen ""
 \'                  einfaches Anführungszeichen ''
 \\                  Backslash \
+````
