@@ -46,4 +46,4 @@
 - Sauberes Ressourcenmanagement (`dispose()`, Memory-Leaks vermeiden)  
 - Unit Tests für UI-nahe Logik  
 - Wiederverwendbare Komponenten schreiben  
-```` 
+````
