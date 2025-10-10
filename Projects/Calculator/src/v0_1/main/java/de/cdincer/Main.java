@@ -1,8 +1,14 @@
+/**
+ * v0.1 - Calculator
+ * Autor - C.Dincer
+ */
 // Der Einstieg der Java funktion für die Anwendung
 // packages die bentötigt werden
-package de.c.dincer
-class Main {
+package de.cdincer;
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        // erstellt das GUI-Objekt und startet es
+        CalculatorGUI calculator = new CalculatorGUI();
+        calculator.setVisible(true); // Zeigt das Fenster an
     }
 }
