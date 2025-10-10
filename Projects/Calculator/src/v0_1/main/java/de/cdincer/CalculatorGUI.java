@@ -64,5 +64,15 @@ public class CalculatorGUI extends JFrame {
                 display.setText(display.getText()+ "3");
             }
         });
+        // BUtton "4"
+        JButton button4 = new JButton("4");
+        panel.add(button4);
+
+        button3.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "3");
+            }
+        });
+        //
     }
 }
