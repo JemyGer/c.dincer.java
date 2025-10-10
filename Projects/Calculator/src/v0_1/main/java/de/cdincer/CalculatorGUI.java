@@ -104,7 +104,7 @@ public class CalculatorGUI extends JFrame {
         JButton button8 = new JButton("8");
         panel.add(button8);
 
-        button7.addActionListener(new ActionListener(){
+        button8.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
                 display.setText(display.getText()+ "8");
             }
@@ -113,7 +113,7 @@ public class CalculatorGUI extends JFrame {
         JButton button9 = new JButton("9");
         panel.add(button9);
 
-        button7.addActionListener(new ActionListener(){
+        button9.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
                 display.setText(display.getText()+ "9");
             }
