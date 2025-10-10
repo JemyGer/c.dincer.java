@@ -92,6 +92,13 @@ public class CalculatorGUI extends JFrame {
             }
         });
         // Button "7"
+        JButton button7 = new JButton("7");
+        panel.add(button7);
 
+        button7.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "7");
+            }
+        });
     }
 }
