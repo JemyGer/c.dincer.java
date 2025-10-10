@@ -1,6 +1,5 @@
-****
 # Calculator - v0.1 <br>
-****
+***
 ## Produktvorstellung
 _Herzlich Willkommen,_
 
