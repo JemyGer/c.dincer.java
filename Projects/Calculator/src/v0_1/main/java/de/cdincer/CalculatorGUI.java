@@ -102,11 +102,20 @@ public class CalculatorGUI extends JFrame {
         });
         // Button "8"
         JButton button8 = new JButton("8");
-        panel.add(button7);
+        panel.add(button8);
 
         button7.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
                 display.setText(display.getText()+ "8");
+            }
+        });
+        // Button "9"
+        JButton button9 = new JButton("9");
+        panel.add(button9);
+
+        button7.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "9");
             }
         });
     }
