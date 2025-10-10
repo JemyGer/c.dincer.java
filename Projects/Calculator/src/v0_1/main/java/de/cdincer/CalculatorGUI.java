@@ -122,7 +122,7 @@ public class CalculatorGUI extends JFrame {
         JButton button10 = new JButton("10");
         panel.add(button10);
 
-        button9.addActionListener(new ActionListener(){
+        button10.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
                 display.setText(display.getText()+ "10");
             }
@@ -131,9 +131,45 @@ public class CalculatorGUI extends JFrame {
         JButton button11 = new JButton("11");
         panel.add(button11);
 
-        button9.addActionListener(new ActionListener(){
+        button11.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
                 display.setText(display.getText()+ "11");
+            }
+        });
+        // Button "12"
+        JButton button12 = new JButton("12");
+        panel.add(button12);
+
+        button12.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "12");
+            }
+        });
+        // Button "13"
+        JButton button13 = new JButton("13");
+        panel.add(button13);
+
+        button13.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "13");
+            }
+        });
+        // Button "14"
+        JButton button14 = new JButton("14");
+        panel.add(button14);
+
+        button14.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "14");
+            }
+        });
+        // Button "15"
+        JButton button15 = new JButton("15");
+        panel.add(button15);
+
+        button15.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "15");
             }
         });
     }
