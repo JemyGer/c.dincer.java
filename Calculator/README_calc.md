@@ -17,10 +17,10 @@ verwendet kennen._
 _In den komenden Versionen werden sie die Möglichkeiten haben mitzuwirken und dementsprechend, <br>
 ideen mit einzubringen was sie sich von einem Taschenrechner wünschen würden._
 
-_Ich freue mich mit und für sie ein Prdukt zu entwickeln das für jeden einen zweck hat. <br>_
+_Ich freue mich mit und für sie ein Produkt zu Entwickeln das für jeden einen zweck hat. <br>_
 _Updates dieses Produktes werden sie auf **GitHub** finden._
 
-**Sie starten das Programm auf das klicken der .EXE**
+**Sie starten das Programm auf das doppel klicken der .EXE**
 ### Produktlayout
     [D i s p l a y]
     [7] [8] [9] [/]
