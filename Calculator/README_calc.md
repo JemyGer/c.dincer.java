@@ -6,11 +6,11 @@ _Herzlich Willkommen,_
 
 _zum Calculator mit der **Ersten** Version 0.1, den sie sich auf ihren PC heruntergeladen haben.<br>
 Das was ich ihnen zeigen möchte ist nicht nur eine Anwendung sondern eine Reise, <br>
-zu einem Prdoukt das am Ende nicht nur ein Taschenrechner wird sondern eine Anwendung, <br>
-die jeder verwenden kannn. <br>_
+zu einem Produkt das am Ende nicht nur ein Taschenrechner wird sondern eine Anwendung, <br>
+die jeder verwenden kann. <br>_
 
 _Lassen sie sich mit reisen zu neuen Features, Funktionen und Problemlösungen die sie begeistern, <br>
-um ihren Altag zu erleichtern. Lernen sie ein Prdukt kennen das sie so noch nicht gesehen haben. <br>
+um ihren Alltag zu erleichtern. Lernen sie ein Prdukt kennen das sie so noch nicht gesehen haben. <br>
 Lesen sie aufmerksam die **Beschreibung** durch, in der sie die Technologien die das Produkt
 verwendet kennen._
 
