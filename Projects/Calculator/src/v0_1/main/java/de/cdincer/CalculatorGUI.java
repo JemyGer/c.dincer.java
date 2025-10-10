@@ -34,7 +34,7 @@ public class CalculatorGUI extends JFrame {
 
         //Panel für Buttons
         JPanel panel = new JPanel();
-        panel.setLayout(new GridLayout(5, 5));
+        panel.setLayout(new GridLayout(4, 4));
         add(panel, BorderLayout.CENTER);
 
         // Button "1"
@@ -55,5 +55,14 @@ public class CalculatorGUI extends JFrame {
                display.setText(display.getText()+ "2");
            }
        });
+       // Button "3"
+        JButton button3 = new JButton("3");
+        panel.add(button3);
+
+        button3.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "3");
+            }
+        });
     }
 }
