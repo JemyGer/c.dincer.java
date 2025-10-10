@@ -85,3 +85,49 @@ Escape-Sequenz      Bedeutung
 \'                  einfaches Anführungszeichen ''
 \\                  Backslash \
 ````
+## MD( Markdown ) Cheeatsheet
+````
+ÜBERSCHRIFTEN:
+# Überschrift 1
+## Überschrift 2
+### Überschrift 3
+#### Überschrifft 4
+
+TEXTFORMATIERUNG:
+*kursiv* oder _kursiv_
+**fett** oder _fett_
+~~durchgestrichen~~
+`Code` (inline)
+
+LISTEN:
+- Punkt 1
+- Punkt 2
+    - Unterpunkt
+1. Erster Punkt
+2. Zweiter Punkt
+
+ZITATE:
+> Das ist ein Zitat.
+
+CODEBLOCKE:
+<pre> ```java System.out.println("Hello World");```</pre>
+
+LINKS & BILDER:
+[OpenAI](https://www.openai.com)
+![Alt-Text](bild.png)
+
+TABELLEN:
+| Name | Typ | Beschreibung |
+|------|-----|---------------|
+| C | Button | Clear Display |
+| + | Operator | Addition |
+
+TRENNLINIE:
+---
+
+AUFGABENLISTE:
+- [x] GUI erstellt  
+- [ ] Funktionen implementieren  
+- [ ] README finalisieren
+
+````
