@@ -12,11 +12,12 @@ import javax.swing.*;
 
 public class CalculatorGUI extends JFrame {
 
+
     public CalculatorGUI(){
         // Frame-Einstellung
         setTitle("Calculator v0.1");
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300,300);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
     }
