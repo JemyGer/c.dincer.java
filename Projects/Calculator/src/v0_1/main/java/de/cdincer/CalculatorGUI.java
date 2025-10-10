@@ -100,5 +100,14 @@ public class CalculatorGUI extends JFrame {
                 display.setText(display.getText()+ "7");
             }
         });
+        // Button "8"
+        JButton button8 = new JButton("8");
+        panel.add(button7);
+
+        button7.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                display.setText(display.getText()+ "8");
+            }
+        });
     }
 }
