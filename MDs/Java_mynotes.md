@@ -131,3 +131,6 @@ AUFGABENLISTE:
 - [ ] README finalisieren
 
 ````
+# Extras
+ - **GRAALVM** 
+   - _import org.graalvm.polyglot.*;_

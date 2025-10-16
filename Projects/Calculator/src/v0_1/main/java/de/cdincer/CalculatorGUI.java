@@ -37,42 +37,42 @@ public class CalculatorGUI extends JFrame {
         panel.setLayout(new GridLayout(4, 4));
         add(panel, BorderLayout.CENTER);
 
-        // Button "1"
-        JButton button1 = new JButton("1");
-        panel.add(button1);
+        // Button "1 wird zu 7 siehe Layout"
+        JButton button7 = new JButton("7");
+        panel.add(button7);
 
-        button1.addActionListener(new ActionListener() {
+        button7.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                display.setText(display.getText()+ "1");
+                display.setText(display.getText()+ "7");
             }
         });
-        // Button "2"
-        JButton button2 = new JButton("2");
-        panel.add(button2);
+        // Button "2 wird zu 8 siehe Layout"
+        JButton button8 = new JButton("8");
+        panel.add(button8);
 
-       button2.addActionListener(new ActionListener(){
+       button8.addActionListener(new ActionListener(){
            public void actionPerformed(ActionEvent e){
-               display.setText(display.getText()+ "2");
+               display.setText(display.getText()+ "8");
            }
        });
-       // Button "3"
-        JButton button3 = new JButton("3");
-        panel.add(button3);
+       // Button "3 wird zu 9"
+        JButton button9 = new JButton("9");
+        panel.add(button9);
 
-        button3.addActionListener(new ActionListener(){
+        button9.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
-                display.setText(display.getText()+ "3");
+                display.setText(display.getText()+ "9");
             }
         });
-        // Button "4"
-        JButton button4 = new JButton("4");
+        // Button "4 wird zu /"
+        JButton button'/' = new JButton("/");
         panel.add(button4);
 
-        button4.addActionListener(new ActionListener(){
+        button'/'.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
-                display.setText(display.getText()+ "4");
+                display.setText(display.getText()+ "/");
             }
-        });
+        });/*
         // Button "5"
         JButton button5 = new JButton("5");
         panel.add(button5);
@@ -180,6 +180,6 @@ public class CalculatorGUI extends JFrame {
             public void actionPerformed(ActionEvent e){
                 display.setText(display.getText()+ "16");
             }
-        });
+        });*/
     }
 }
