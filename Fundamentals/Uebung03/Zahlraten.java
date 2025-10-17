@@ -23,6 +23,7 @@ public class Zahlraten {
             case 1:
             case 2:
             case 3:
+            case 9:
                 JOptionPane.showMessageDialog(null, benutzerZahl + ": Daneben!");
                 break;
             case 4:
