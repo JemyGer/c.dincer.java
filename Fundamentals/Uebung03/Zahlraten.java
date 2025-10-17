@@ -36,7 +36,7 @@ public class Zahlraten {
                 JOptionPane.showMessageDialog(null, benutzerZahl + ": Treffer! Glückwunsch!");
                 break;
             default:
-                JOptionPane.showMessageDialog(null,  benutzerZahl +": Falsche eingabe! Wiederholen!");
+                JOptionPane.showMessageDialog(null,  benutzerZahl + ": Falsche eingabe! Wiederholen!");
 
 
         }
