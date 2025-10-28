@@ -4,7 +4,7 @@
 * die Schleife wird so lange ausgeführt solang
 * die Bedingung wahr ist
 * Wenn die Bedingung falsch ist dann wird das programm beendet
-* @autor C.Dincer
+* @autor C.Dincer 2025
 * */
 public class Count01_WhileLoop {
     public static void main (String[] args){
