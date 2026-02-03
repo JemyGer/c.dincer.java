@@ -7,3 +7,4 @@ public class exampleWhile {
         }
     }
 }
+// works while loop done!
