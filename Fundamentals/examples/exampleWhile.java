@@ -1,9 +1,9 @@
 public class exampleWhile {
     public static void main(String[] args){
-        int zahl = 0;
-        while (zahl < 101 ) {
-            System.out.println(zahl);
-            zahl++;
+        int n = 0;
+        while (n <= 100 ) {
+            System.out.println(n);
+            n++;
         }
     }
 }
