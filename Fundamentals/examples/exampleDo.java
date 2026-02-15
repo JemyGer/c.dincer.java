@@ -4,6 +4,6 @@ public class exampleDo {
         do {
             System.out.println(Number);
             Number++;
-        } while (Number < 101);
+        } while (Number <= 100);
     }
 }
